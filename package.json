@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashishbajaj99/mic.git"
+    "url": "git+https://github.com/celso/mic.git"
   },
   "keywords": [
     "node-mic",
@@ -20,10 +20,10 @@
     "audio",
     "input"
   ],
-  "author": "Ashish Bajaj <bajaj.ashish@gmail.com>",
+  "author": "Celso Martinho (celso@brpx.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ashishbajaj99/mic/issues"
+    "url": "https://github.com/celso/mic/issues"
   },
-  "homepage": "https://github.com/ashishbajaj99/mic#readme"
+  "homepage": "https://github.com/celso/mic#readme"
 }
